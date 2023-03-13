@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+### Hi there 👋 I'm Liv
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I'm an experienced full-stack software engineer with a background in website design, graphics design & photography. Developed a unique blend of technical knowledge & creative skills, leveraging expertise in Ruby on Rails, JavaScript, React, SQL databases & RESTful API architecture. Demonstrated strong leadership, team-building, project management & problem-solving abilities that drive business growth, increases productivity & streamlines processes. Passionate about utilizing technology to drive positive change & disrupt outdated practices, using real-world experience & technical expertise to help organizations achieve their goals.
 
-## Available Scripts
+## TECHNICAL SKILLS
 
-In the project directory, you can run:
+JavaScript • React • Ruby • Rails • HTML • CSS/SASS • GitHub • Postgres • SQL • Redux • WordPress • PHP Cloud Storage • Adobe Creative Suite • ActiveRecord • RESTful Architecture • WooCommerce • AWS • NodeJS • Typescript • SolidJS
 
-### `npm start`
+## PROJECTS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Myflix
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[ReadMe](https://github.com/livnelson/Myflix) | [Deployed Demo](https://myflix-db.onrender.com)
+<br></br>
+A Netflix clone app that allows users to log-in and view movie trailers, add movies to favorites and search titles
 
-### `npm test`
+- Implemented React to create an interactive & efficient UI with custom CSS to simulate the of Netflix.
+- Utilized BCrypt to securely store encrypted passwords in the database and implemented custom authentication.
+- Developed a Rails API back-end to efficiently handle data persistence and respond to fetch requests.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### National Park Trip Planner
 
-### `npm run build`
+[ReadMe](https://github.com/livnelson/National-Park-Trip-Planner)
+<br></br>
+This app helps users plan trips and available activities to National Parks located in the State of California
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Utilized React and Ruby on Rails to create a single page web app.
+- Coordinated with team on what app functionality to build out .
+- Expanded my knowledge working with external API’s.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### InstaFame
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[ReadMe](https://github.com/livnelson/InstaFame)
+<br></br>
+Social media style message and picture sharing application inspired by Instagram
 
-### `npm run eject`
+- Developed React front-end & leveraged the Sinatra framework to build the application using custom CSS to design the UI.
+- Utilized Tokens and sessions to keep users logged in upon page refresh & established backend associations to associate likes and other features with current users.
+- Adhered to RESTful conventions & built CRUD functionality for core resources.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## LINKS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[LinkedIn](https://www.linkedin.com/in/olivia-nelson/)<br/>
+[Web Design Portfolio](https://liv-creative.com/design-portfolio/)
