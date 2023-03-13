@@ -5,8 +5,7 @@ import Home from './Home'
 import About from './About'
 import Skills from './Skills'
 import Projects from './Projects'
-import Experience from './Experience'
-import Education from './Education'
+import SocialLinks from './SocialLinks'
 import Contact from './Contact'
 import '../styles/App.css'
 
@@ -19,8 +18,7 @@ function App() {
         <Route exact path='/about' element={<About />} />
         <Route exact path='/skills' element={<Skills />} />
         <Route exact path='/projects' element={<Projects />} />
-        <Route exact path='/experience' element={<Experience />} />
-        <Route exact path='/education' element={<Education />} />
+        <Route exact path='/experience' element={<SocialLinks />} />
         <Route exact path='/contact' element={<Contact />} />
       </Routes>
     </div>

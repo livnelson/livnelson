@@ -5,17 +5,10 @@ import About from '../components/About'
 import Skills from '../components/Skills'
 import Projects from '../components/Projects'
 import SocialLinks from '../components/SocialLinks'
-import Experience from './Experience'
-import Education from './Education'
 import Contact from './Contact'
 import '../styles/Home.css'
 
 function Home() {
-  // const navigate = useNavigate()
-
-  // function handleClick() {
-  //   navigate('/#contact')
-  // }
 
   const scrollWithOffset = (el) => {
     const yCoordinate = el.getBoundingClientRect().top + window.pageYOffset
@@ -27,7 +20,6 @@ function Home() {
     <div>
       <div className='home-section' id='home'>
         <div className='welcome-image'>
-          {/* <img className='hummingbird' src='https://liv-creative.com/wp-content/uploads/2023/02/gold-hummingbird.png' alt='hummingbird' /> */}
           {/* <img className='avatar' src='https://liv-creative.com/wp-content/uploads/2023/02/liv.png' alt='liv' /> */}
         </div>
         <div className='welcome'>
@@ -41,8 +33,6 @@ function Home() {
       <Skills />
       <Projects />
       <SocialLinks />
-      {/* <Experience />
-      <Education /> */}
       <Contact />
     </div>
   )
