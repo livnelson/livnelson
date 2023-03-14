@@ -7,8 +7,9 @@ function Contact() {
   const [formData, setFormData] = useState({
     from_name: '',
     reply_to: '',
-    message: ''
+    // message: ''
   })
+  const [message, setMessage] = useState('')
 
   const handleChange = (e) => {
     const { name, value } = e.target
@@ -44,6 +45,7 @@ function Contact() {
       })
       e.target.reset()
       setFormData('')
+      setMessage('')
   }
 
 
@@ -74,9 +76,10 @@ function Contact() {
           className="textarea-field"
           name="message"
           type="text"
-          value={formData.message}
+          value={message}
           placeholder="What would you like to say..."
-          onChange={handleChange}
+          // onChange={handleChange}
+          onChange={(e) => setMessage(e.target.value)}
           required
         />
         <button className='btn'>Send Message</button>
