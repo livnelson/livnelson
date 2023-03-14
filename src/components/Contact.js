@@ -5,8 +5,8 @@ import '../styles/Contact.css'
 
 function Contact() {
   const [formData, setFormData] = useState({
-    name: '',
-    email: '',
+    from_name: '',
+    reply_to: '',
     message: ''
   })
 
@@ -54,18 +54,18 @@ function Contact() {
       <form className='contact-form' onSubmit={handleSubmit}>
         <input
           className="input-field"
-          name="name"
+          name="from_name"
           type="text"
-          value={formData.name}
+          value={formData.from_name}
           placeholder="Enter your name"
           onChange={handleChange}
           required
         />
         <input
           className="input-field"
-          name="email"
+          name="reply_to"
           type="text"
-          value={formData.email}
+          value={formData.reply_to}
           placeholder="Enter your email address"
           onChange={handleChange}
           required
