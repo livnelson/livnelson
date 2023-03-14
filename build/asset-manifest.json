@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1981bebd.css",
+    "main.js": "/static/js/main.149a675a.js",
+    "static/js/787.72bdf242.chunk.js": "/static/js/787.72bdf242.chunk.js",
+    "static/media/LNelson_TechResume.pdf": "/static/media/LNelson_TechResume.6a46eeba7d09cfd0b1f5.pdf",
+    "index.html": "/index.html",
+    "main.1981bebd.css.map": "/static/css/main.1981bebd.css.map",
+    "main.149a675a.js.map": "/static/js/main.149a675a.js.map",
+    "787.72bdf242.chunk.js.map": "/static/js/787.72bdf242.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1981bebd.css",
+    "static/js/main.149a675a.js"
+  ]
+}
