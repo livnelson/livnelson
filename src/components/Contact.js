@@ -7,7 +7,6 @@ function Contact() {
   const [formData, setFormData] = useState({
     from_name: '',
     reply_to: '',
-    // message: ''
   })
   const [message, setMessage] = useState('')
 
@@ -29,7 +28,6 @@ function Contact() {
           icon: 'success',
           title: 'Message Sent Successfully',
           confirmButtonColor: "#22bfc8",
-          type: 'success',
           timer: 3000,
         })
       }, (error) => {
@@ -39,7 +37,6 @@ function Contact() {
           title: 'Ooops, something went wrong',
           confirmButtonColor: "#22bfc8",
           text: error.text,
-          type: 'error',
           timer: 3000,
         })
       })
@@ -78,7 +75,6 @@ function Contact() {
           type="text"
           value={message}
           placeholder="What would you like to say..."
-          // onChange={handleChange}
           onChange={(e) => setMessage(e.target.value)}
           required
         />
