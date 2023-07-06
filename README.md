@@ -10,7 +10,7 @@ HTML • CSS • JavaScript • TypeScript • React • Redux • React-Router-
 
 ### Myflix
 
-[ReadMe](https://github.com/livnelson/Myflix) | [Deployed Demo](https://myflix-db.onrender.com)
+[ReadMe](https://github.com/livnelson/Myflix)
 <br></br>
 A Netflix clone app that allows users to log-in and view movie trailers, add movies to favorites and search titles
 
