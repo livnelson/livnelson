@@ -4,7 +4,7 @@ I'm an experienced full-stack software engineer with a background in website des
 
 ## TECHNICAL SKILLS
 
-HTML • CSS • JavaScript • TypeScript • React • Redux • React-Router-Dom • SolidJS • Ruby • Ruby on Rails • PHP • SQL • NoSQL Postgres • AWS • WordPress • WooCommerce • GitHub • SEO •  Adobe Creative Suite • Figma
+HTML • CSS • JavaScript • TypeScript • React • Redux • React-Router-Dom • SolidJS • Ruby • Ruby on Rails • PHP • SQL • NoSQL • Postgres • AWS • WordPress • WooCommerce • GitHub • SEO •  Adobe Creative Suite • Figma
 
 ## PROJECTS
 
