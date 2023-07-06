@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Liv
 
-I'm an experienced full-stack software engineer with a background in website design, graphics design & photography. Developed a unique blend of technical knowledge & creative skills, leveraging expertise in Ruby on Rails, JavaScript, React, SQL databases & RESTful API architecture. Demonstrated strong leadership, team-building, project management & problem-solving abilities that drive business growth, increases productivity & streamlines processes. Passionate about utilizing technology to drive positive change & disrupt outdated practices, using real-world experience & technical expertise to help organizations achieve their goals.
+I'm an experienced full-stack software engineer with a background in website design, graphics design, and photography. I have developed a unique blend of technical knowledge and creative skills, leveraging my expertise in Ruby on Rails, JavaScript, React, SQL databases, and RESTful API architecture. Throughout my career, I have demonstrated strong leadership, team-building, project management, and problem-solving abilities, which have driven business growth, increased productivity, and streamlined processes. I am passionate about utilizing technology to drive positive change and disrupt outdated practices. With my real-world experience and technical expertise, I can help organizations achieve their goals. Let's innovate together!
 
 ## TECHNICAL SKILLS
 
-JavaScript • React • Ruby • Rails • HTML • CSS/SASS • GitHub • Postgres • SQL • Redux • WordPress • PHP Cloud Storage • Adobe Creative Suite • ActiveRecord • RESTful Architecture • WooCommerce • AWS • NodeJS • Typescript • SolidJS
+HTML • CSS • JavaScript • TypeScript • React • Redux • React-Router-Dom • SolidJS • Ruby • Ruby on Rails • PHP • SQL • NoSQL Postgres • AWS • WordPress • WooCommerce • GitHub • SEO •  Adobe Creative Suite • Figma
 
 ## PROJECTS
 
